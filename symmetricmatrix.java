@@ -1,4 +1,4 @@
-package nihal;
+package aashy;
 
 
 import java.util.Scanner;
