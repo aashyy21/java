@@ -1,4 +1,4 @@
-package ashir;
+package aashy;
 
 import java.util.Scanner;
 
